@@ -1,6 +1,6 @@
 
 body{
-    background-image: url("pic.jpg");
+    background-image: url("pic1.jpg");
     background-size: cover;
    
 }
@@ -14,11 +14,13 @@ body{
     
 }
 .main-d{
-    margin-left: 860px;
-    background-color: rgb(169, 222, 228);
-    height: 600px;
+    margin: auto;
+    background-color: rgb(193, 78, 42);
+    height: 500px;
     width: 600px;
    padding-left: 6%;
+   border: 5px solid rgb(22, 85, 80);
+   border-radius: 10px;
    
 }
 button{
